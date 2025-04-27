@@ -1,4 +1,4 @@
-package com.example.jwtAuth.contoller;
+package com.example.jwtAuth.contoller.privateEndpoint;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

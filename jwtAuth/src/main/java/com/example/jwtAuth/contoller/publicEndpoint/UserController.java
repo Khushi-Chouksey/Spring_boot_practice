@@ -1,4 +1,4 @@
-package com.example.jwtAuth.contoller;
+package com.example.jwtAuth.contoller.publicEndpoint;
 
 import com.example.jwtAuth.model.User;
 import com.example.jwtAuth.service.UserService;

@@ -1,4 +1,4 @@
-package com.example.jwtAuth.contoller;
+package com.example.jwtAuth.contoller.privateEndpoint;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
